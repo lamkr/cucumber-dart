@@ -1,10 +1,12 @@
-# Cucumber Dart
+Cucumber Core
+=============
 
-Cucumber Dart is a pure Dart implementation of Cucumber.
-You can [run]() it with the tool of your choice.
+Provides components needed to discover, parse and execute feature files. The
+core is designed with a few extension systems and plugin points. You
+typically don't depend directly on `cucumber-core` but rather use the different
+submodules together e.g. `cucumber-dart`.
 
-**\\\ \\\ \\\ ---  IN CONSTRUCTION --- // // //**
-
+**\\\ \\\ \\\ \\\ \\\ \\\ \\\ ° ° ° IN CONSTRUCTION ° ° ° // // // // // // //**
 
 <!-- 
 This README describes the package. If you publish this package to pub.dev,

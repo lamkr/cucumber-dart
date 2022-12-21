@@ -1,4 +1,4 @@
-import 'package:cucumber_dart/cucumber_dart.dart';
+import 'package:cucumber_core/cucumber_core.dart';
 
 void main() {
   var awesome = Awesome();

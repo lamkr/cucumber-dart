@@ -2,9 +2,6 @@
 .dart_tool/
 .packages
 
-# IDE's
-.idea/
-
 # Conventional directory for build outputs.
 build/
 
